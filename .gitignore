@@ -116,18 +116,3 @@ dist
 .yarn/build-state.yml
 .pnp.*
 
-.idea/$CACHE_FILE$
-.idea/.gitignore
-.idea/TheMaxStore.iml
-.idea/dbnavigator.xml
-.idea/jsLibraryMappings.xml
-.idea/jsLinters/
-.idea/misc.xml
-.idea/modules.xml
-app.js
-bin/
-package-lock.json
-package.json
-public/
-routes/
-views/
